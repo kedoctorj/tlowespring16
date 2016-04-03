@@ -6,7 +6,7 @@
 
 testfunction = function(x)
 {
-  y = x * x
+  y = x * x + 2
   
   return(y)
 }
